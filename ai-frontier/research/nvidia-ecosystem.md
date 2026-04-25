@@ -48,3 +48,4 @@ type: permanent
 - [[ai-frontier-2026-03-27]]
 - [[ai-frontier-2026-04-03]]
 - [[ai-coding-tools]]
+- [[sagemaker-hyperpod-topology]]
